@@ -1,2 +1,2 @@
-# calculating_test_repo
+# test_repo
 first test repo
